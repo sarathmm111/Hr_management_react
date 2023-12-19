@@ -1,0 +1,35 @@
+#nav{
+    /* background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c); */
+    
+    height: 100px;
+}
+
+#hrms:focus{  
+    color: rgb(255, 81, 0);
+}
+
+#emplo:focus{  
+    color: rgb(255, 81, 0);
+    
+}
+
+#abou:focus{  
+    color: rgb(255, 81, 0);
+}
+#hrms{
+    font-weight: bold;
+    color: black;
+    font-size: 30px;
+}
+
+#abou{
+    font-weight: bold;
+    color: black;
+    font-size: 30px;
+}
+
+#emplo{
+    font-weight: bold;
+    color: black;
+    font-size: 30px;
+}
