@@ -1,0 +1,26 @@
+.home{
+    padding-top: 180px;
+    height: 90vh;
+    margin: 0;
+        background: url('./hr3.jpg') fixed;
+        background-size: cover;
+    
+    
+}
+.title{
+   
+    background: linear-gradient(45deg, #ff0000, #ff9900, #33cc33, #3399ff, #cc33ff);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 2.5rem; /* Adjust font size as needed */
+      
+      
+}
+
+.content{
+    background: linear-gradient(45deg, #270a0a, #6ab8ec, #33cc33, #3399ff, #4ff072);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 1rem;
+}
+
