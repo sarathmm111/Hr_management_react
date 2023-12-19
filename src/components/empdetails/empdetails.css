@@ -1,0 +1,18 @@
+.details {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #22252c;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+ .empdetails{
+  background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+ }
+ .table{
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+ }
+ #h1leave{
+  color: black;
+ }
+  
