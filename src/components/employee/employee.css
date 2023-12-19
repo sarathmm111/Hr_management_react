@@ -1,0 +1,23 @@
+
+h2{
+    color: rgba(58, 4, 75, 0.603);
+    
+}
+.employee-list-container {
+    text-align: left;
+    height: 100vh; /* Set a fixed height for the container (100% of the viewport height) */
+    
+  }
+
+#link:focus{
+    color: initial;
+    background-color: rgb(169, 240, 228);
+    
+}
+#link{
+    text-decoration: none;
+    color: black;
+}
+#mainemp{
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+}
