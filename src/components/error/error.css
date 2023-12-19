@@ -1,0 +1,18 @@
+/* Error.css */
+
+.error-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    text-align: top;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background: url('./error3.jpg') fixed;
+    background-size: cover;
+  }
+  
+
+  
+  
+  /* Add more styling as needed */
+  
