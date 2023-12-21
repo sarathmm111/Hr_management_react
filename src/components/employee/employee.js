@@ -23,11 +23,11 @@ export default function Employee() {
       <div style={emplistStyle}>
         {employee.map(data => (
           <ul>
-            <li>
+            
               <Link id='link' to={`/employees/${data.id}`} className="navbar-brand">
-                {`${data.firstname} ${data.lastname}`}
+                {` ${data.id} ${data.firstname} ${data.lastname}`}
               </Link>
-            </li>
+            
           </ul>
         ))}
       </div>

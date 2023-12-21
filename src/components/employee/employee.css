@@ -15,9 +15,11 @@ h2{
     
 }
 #link{
+
     text-decoration: none;
     color: black;
 }
 #mainemp{
     background: linear-gradient(to right, #3498db, #ffffff);
+    text-align: left;
 }

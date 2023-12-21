@@ -33,7 +33,6 @@ const LeaveForm = ({ onLeaveSubmit }) => {
   };
 
   return (
-    <div className="form-div"> 
     <form onSubmit={handleSubmit}>
         <h3>LEAVE FORM</h3>
       <label>
@@ -50,7 +49,6 @@ const LeaveForm = ({ onLeaveSubmit }) => {
       
       <button type="submit">Submit Leave</button>
     </form>
-    </div>
   );
 };
 
