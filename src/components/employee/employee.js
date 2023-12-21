@@ -25,7 +25,7 @@ export default function Employee() {
           <ul>
             
               <Link id='link' to={`/employees/${data.id}`} className="navbar-brand">
-                {` ${data.id} ${data.firstname} ${data.lastname}`}
+                {` ${data.id}. ${data.firstname} ${data.lastname}`}
               </Link>
             
           </ul>
